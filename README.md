@@ -19,11 +19,6 @@ This repository contains resources, tutorials, and practice files for learning a
 ├── Visualization
 │   ├── plotting_with_pandas.ipynb
 │   └── advanced_visualizations.ipynb
-├── RealWorldExamples
-│   ├── sales_analysis.ipynb
-│   ├── stock_market_data.ipynb
-│   └── covid19_data_analysis.ipynb
-└── README.md
 ```
 
 ## Topics Covered
@@ -42,10 +37,6 @@ This repository contains resources, tutorials, and practice files for learning a
 - Plotting with Pandas
 - Creating advanced visualizations
 
-### **Real-World Examples**
-- Analyzing sales data
-- Working with stock market datasets
-- COVID-19 data analysis
 
 ## Getting Started
 
